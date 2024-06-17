@@ -1,0 +1,8 @@
+.nav-link.active-link{
+  color: red;
+}
+.container-fluid{
+  background-color: rgb(121, 229, 225);
+  height:50px;
+  border-radius: 20px;
+}

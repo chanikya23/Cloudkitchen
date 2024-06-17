@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgb(5, 5, 5);
+    color:white;
+    padding: 10px;
+    position: sticky;
+    top:100%;
+    margin-top: 30px;
+
+}
+a ,i {
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+}
